@@ -1,7 +1,7 @@
 ### Oi! Bem vindo ao meu Git
 
-- 💸Trabalho como Auxiliar de Suporte na INTEGRALE
-- 📚Estudando Analise e desenvolvimento de sistemas
+- 💸Hoje na função de Analista de Dados
+- 📚Estudando Ciencia da Computação 3/4
 
 <div align="center">
   <a href="https://github.com/VictorNarcizo">
